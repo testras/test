@@ -1,0 +1,10 @@
+{
+    "name": "airidas/hello",
+    "authors": [
+        {
+            "name": "Airidas",
+            "email": "airidas.janavicius@gmail.com"
+        }
+    ],
+    "require": {}
+}
